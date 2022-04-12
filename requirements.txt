@@ -1,0 +1,17 @@
+atomicwrites==1.4.0
+attrs==21.4.0
+colorama==0.4.4
+et-xmlfile==1.1.0
+iniconfig==1.1.1
+openpyxl==3.0.9
+packaging==21.3
+pluggy==1.0.0
+py==1.11.0
+pyaes==1.6.1
+pyasn1==0.4.8
+pyparsing==3.0.7
+pytest==7.0.1
+rsa==4.8
+Telethon==1.24.0
+tomli==2.0.1
+python-dotenv==0.20.0
